@@ -1,1 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <url>
+    <loc>https://musemind.agency/blog/how-to-create-a-mobile-app-interface-design</loc>
+    
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/67bbf76c921f64ec4534d6d8_how-to-create-a-mobile-app-interface-design.avif</image:loc>
+      <image:caption>Mobile app interface design shown on smartphone with editable UI elements and Figma tools</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7de_67362fa2550b55fbf70252c5_67362c22c257f614208c9686_Mobile-App-User-Interface-Design.avif</image:loc>
+      <image:caption>Illustration of mobile app user interface design explaining key concepts</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7e1_67362fa2550b55fbf70252bf_67362c42e4755e4be714b90a_App-User-Interface-Design-Principles.avif</image:loc>
+      <image:caption>Visual highlighting principles of mobile application user interface design</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7d8_67362fa2550b55fbf70252b9_67362c632b86d53bded8d861_Mobile-App-User-Interface-Design-Process.avif</image:loc>
+      <image:caption>Step-by-step mobile app interface design process shown graphically</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7f0_67362fa2550b55fbf70252c8_67362c889d3bb0321bfb195a_Sketch-Design-Prototype-Collaborative-Toolkit.avif</image:loc>
+      <image:caption>Sketch tool interface for mobile app design and prototyping</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7e7_67362fa2550b55fbf70252b3_67362cb4d8c17c6bf30b5a32_Figma-Collaborative-Interface-Design-Tool.avif</image:loc>
+      <image:caption>Figma collaborative interface design tool used for mobile app UI</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7f3_67362fa2550b55fbf70252b0_67362b6f851cbe76a9706c84_Adobe-XD-Vector-Design-Tool.avif</image:loc>
+      <image:caption>Adobe XD vector design tool for prototyping mobile app interfaces</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7db_67362fa2550b55fbf70252bc_67362b902b86d53bded815a8_InVision-Collaborative-Workspace-Tool.avif</image:loc>
+      <image:caption>InVision collaborative workspace tool for designing interactive mobile prototypes</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>http://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7ea_67362fa2550b55fbf70252b6_67362baf55ca957cbe39265e_ProtoPie-Prototyping-Tool.avif</image:loc>
+      <image:caption>ProtoPie tool for creating interactive mobile app prototypes without coding</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7e4_673f114be91d87d1ade3a2c2_673f10d100e95d2a17832ba7_PayPal-Mobile-App-User-Interface.avif</image:loc>
+      <image:caption>PayPal mobile app user interface featuring clean and colorful design</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7ed_673f114be91d87d1ade3a2d4_673f107fc2c596cf76361f21_Uber-Mobile-App-User-Interface.avif</image:loc>
+      <image:caption>Uber app interface showcasing simple, user-friendly navigation and layout</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/678c97c15003822935e9c7f6_673f114be91d87d1ade3a2bf_673f111902e14d14a2ffcf3a_BigBasket-Mobile-App-User-Interface.avif</image:loc>
+      <image:caption>BigBasket mobile app user interface designed for easy grocery shopping</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://cdn.prod.website-files.com/6729ec097b1b3ed00e968b1b/67b30de7421717903e486cdf_Musemind-CEO-Nasir-Uddin-p-500.avif</image:loc>
+      <image:caption>Author Nasir Uddin, CEO at Musemind</image:caption>
+    </image:image>
+    
+  </url>
+</urlset>
